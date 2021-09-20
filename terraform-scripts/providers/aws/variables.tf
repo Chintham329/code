@@ -3,5 +3,5 @@ variable "instance_name" {
 }
 
 variable "aws_region" {
-  default = "eu-west-1"
+  default = "eu-east-1"
 }
